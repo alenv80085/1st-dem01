@@ -7,4 +7,5 @@ void main
   scanf("%d",&a,"%d" ,&b);
   c=a+b;
   printf("Sum =  %d",c);
+  getch();
 }
