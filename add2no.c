@@ -3,6 +3,7 @@
 void main
 {
   int a,b,c;
+  array[10];
   printf("Enter two numbers");
   scanf("%d",&a,"%d" ,&b);
   c=a+b;
