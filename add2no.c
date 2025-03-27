@@ -2,6 +2,7 @@
 #include<conio.h>
 void main
 {
+  clrscr();
   int a,b,c;
   array[10];
   printf("Enter two numbers");
